@@ -1,16 +1,18 @@
-# skp_blinkit
+# 🛍️ SKP BlinkIt UI
 
-A new Flutter project.
+A simple Flutter UI project inspired by the BlinkIt grocery delivery app.
 
-## Getting Started
+This project focuses purely on the front-end design — showcasing clean layouts, smooth scrollable views, category displays, and product cards.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Beautiful UI for grocery shopping
+- Product listing and category screens
+- Responsive design for various screen sizes
+- Organized folder structure (screens, widgets, assets)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🙋‍♂️ Author
+Designed and built by Sandeep
+GitHub
